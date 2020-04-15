@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Lingyun Wang",
+  "author": "LINGYUN WANG",
   "license": "ISC",
   "dependencies": {
     "superheroes": "^3.0.0",
